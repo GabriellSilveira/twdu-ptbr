@@ -188,7 +188,7 @@
         "ui.edit": "Editar",
         "ui.wrongItemType": "Itens \"{type}\" não podem ser adicionados a um {actor}!",
         "ui.cantRollWhenBroken": "Você não pode rolar quando Incapacitado!",
-        "ui.messedUp": "Você ferrou tudo!",
+        "ui.messedUp": "Ferrou tudo!",
         "ui.subtotal": "Subtotal",
         "ui.skillDice": "Dados de Perícia",
         "ui.stressDice": "Dados de Estresse",
