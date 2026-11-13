@@ -1,0 +1,19 @@
+{
+  "id": "twdu-ptbr",
+  "title": "Tradução TWD Universe (PT-BR)",
+  "description": "Módulo customizado de tradução para o sistema TWDU.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/GabriellSilveira/twdu-ptbr/main/module.json",
+  "download": "https://github.com/GabriellSilveira/twdu-ptbr/archive/refs/heads/main.zip"
+}
