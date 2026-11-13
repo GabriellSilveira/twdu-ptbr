@@ -219,8 +219,8 @@
         "ROLL.TALENT_DAMAGE": "Usar Talento para Bônus de Dano"
     },
     "YZUR": {
-        "DIETERMS.SkillDie": "Sucessos de Dados de Perícia",
-        "DIETERMS.StressDie": "Sucessos de Dados de Estresse"
+        "DIETERMS.SkillDie": "Sucessos de Perícia",
+        "DIETERMS.StressDie": "Sucessos de Estresse"
     },
     "TYPES": {
         "Actor.character": "Personagem",
