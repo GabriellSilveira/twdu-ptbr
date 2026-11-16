@@ -15,4 +15,4 @@ Módulo não oficial de tradução da interface do sistema **The Walking Dead Un
 2. Acesse a aba **Add-on Modules** e clique em **Install Module**.
 3. No campo **Manifest URL** (na parte inferior da janela), cole o link abaixo:
    ```text
-   [https://raw.githubusercontent.com/GabriellSilveira/twdu-ptbr/main/module.json](https://raw.githubusercontent.com/GabriellSilveira/twdu-ptbr/main/module.json)
+   https://raw.githubusercontent.com/GabriellSilveira/twdu-ptbr/main/module.json
